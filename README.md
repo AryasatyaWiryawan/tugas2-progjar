@@ -55,8 +55,8 @@ Time Server ini mendengarkan pada port 45000 menggunakan protokol TCP. Server da
 Berikut adalah screenshot hasil eksekusi program server yang menunjukkan server menerima dan merespon request.
 
 ### Server Menerima Koneksi
-![Server Screenshot](path/to/screenshot_server.png)
+![image](https://github.com/AryasatyaWiryawan/tugas2-progjar/assets/17810264/aa7b6465-4fc8-4108-a914-ab3cab32d8d5)
 
 ### Client Mengirim Request dan Menerima Response
-![Client Screenshot](path/to/screenshot_client.png)
+![image](https://github.com/AryasatyaWiryawan/tugas2-progjar/assets/17810264/7410baf0-b2fc-4f54-b627-389d5d9ac629)
 
