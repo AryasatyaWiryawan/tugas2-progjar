@@ -25,8 +25,8 @@ Time Server ini mendengarkan pada port 45000 menggunakan protokol TCP. Server da
 
 1. Clone repository ini ke mesin Anda:
     ```sh
-    git clone https://github.com/AryasatyaWiryawan/progjar/progjar-tugas2
-    cd progjar-tugas2
+    git clone https://github.com/AryasatyaWiryawan/tugas2-progjar
+    cd tugas2-progjar
     ```
 
 2. Jalankan server dengan perintah:
